@@ -12,6 +12,36 @@ I am a Software Developer with experience designing, coding, testing, and mainta
 
 I completed my MS in Computer Science at Indiana University Bloomington in May 2026. I am focused on Software Development Engineer roles where I can build reliable applications, improve performance, strengthen deployment workflows, and ship user-centered product features with cross-functional teams.
 
+## Experience
+
+### Research Software Developer - Luddy School of Informatics, Indiana University Bloomington
+**Indiana, US | Aug. 2024 - May 2026**
+
+- Built a Python-based content pipeline using Flask, MySQL, Redis, and GraphRAG for data processing and review workflows; added AutoGen agents and reduced manual content evaluation time by 23%.
+- Improved a retrieval workflow for a proprietary LLM using LlamaIndex and SpaCy, supporting 2,800+ assessment items and raising content relevancy from 72% to 83%.
+- Deployed a Flask backend on AWS EC2 using Docker and Apache; resolved recurring deployment issues and improved model evaluation speed by 18%.
+
+### Software Development Engineer II - IBM
+**Bengaluru, India | Sep. 2022 - Apr. 2024**
+
+- Built and maintained Node.js and Express.js services for production application workflows; tuned PostgreSQL indexes and SQL queries to reduce data retrieval latency from 420 ms to 295 ms.
+- Added Docker, configuration, smoke test, and integration test checks to Jenkins release workflows, cutting release time by 35 minutes per sprint and reducing deployment failures by 45%.
+- Debugged recurring deployment failures with DevOps and QA teams using Jenkins logs and Docker runtime checks on AWS EC2, improving deployment reliability to 99.7%.
+- Built React.js and TypeScript frontend modules with Redux and Tailwind CSS, improving frontend responsiveness by 28% and raising Lighthouse score from 78 to 91.
+
+### Software Development Engineer - Cognizant
+**Hyderabad, India | Aug. 2021 - Sep. 2022**
+
+- Built React.js dashboards for internal analytics workflows using GraphQL and Django APIs to support near-real-time reporting and daily application use.
+- Fixed slow refresh issues in React dashboards by improving API data fetch handling and component rendering, increasing data rendering speed by 21.6%.
+- Containerized backend services on AWS EC2 using Docker and Jenkins, cutting environment setup time from 82 minutes to 39 minutes and reducing manual deployment errors by 17%.
+
+### Software Developer - Widhya
+**New Delhi, India | Jan. 2021 - Jul. 2021**
+
+- Built an RNN-based text classification model using TensorFlow and SpaCy; refined tokenization and hyperparameter settings, raising validation accuracy from 88.4% to 93.2%.
+- Automated Python experiment scripts for data preprocessing and model evaluation using Pandas and Scikit-learn, cutting repetitive manual testing time by 27%.
+
 ## Featured Work
 
 | Project | What it shows | Stack | Live |
@@ -45,17 +75,6 @@ Unit testing concepts, integration testing, smoke tests, debugging, troubleshoot
 
 **ML, Data, and AI Retrieval**  
 TensorFlow, Pandas, Scikit-learn, RNN, data preprocessing, model evaluation, data pipelines, RAG, GraphRAG, PubMed RAG, LlamaIndex, FAISS, AutoGen, AG2, SpaCy, LLMs, semantic retrieval
-
-## Experience Highlights
-
-- Built Python, Flask, MySQL, Redis, and GraphRAG content pipelines at Indiana University Bloomington; added AutoGen agents and reduced manual content evaluation time by 23%.
-- Improved a proprietary LLM retrieval workflow using LlamaIndex and SpaCy, supporting 2,800+ assessment items and raising content relevancy from 72% to 83%.
-- Built and maintained Node.js and Express.js production services at IBM; tuned PostgreSQL indexes and SQL queries to reduce data retrieval latency from 420 ms to 295 ms.
-- Added Docker, configuration, smoke test, and integration test checks to Jenkins release workflows, cutting release time by 35 minutes per sprint and reducing deployment failures by 45%.
-- Debugged Jenkins, Docker, and AWS EC2 deployment failures with DevOps and QA teams, improving deployment reliability to 99.7%.
-- Built React.js and TypeScript frontend modules with Redux and Tailwind CSS, improving responsiveness by 28% and raising Lighthouse score from 78 to 91.
-- Built React.js analytics dashboards backed by GraphQL and Django APIs at Cognizant, increasing data rendering speed by 21.6%.
-- Containerized backend services on AWS EC2 with Docker and Jenkins, reducing environment setup time from 82 minutes to 39 minutes and cutting manual deployment errors by 17%.
 
 ## Current Focus
 
