@@ -17,30 +17,30 @@ I completed my MS in Computer Science at Indiana University Bloomington in May 2
 ### Research Software Developer - Luddy School of Informatics, Indiana University Bloomington
 **Indiana, US | Aug. 2024 - May 2026**
 
-- Built a Python-based content pipeline using Flask, MySQL, Redis, and GraphRAG for data processing and review workflows; added AutoGen agents and reduced manual content evaluation time by 23%.
-- Improved a retrieval workflow for a proprietary LLM using LlamaIndex and SpaCy, supporting 2,800+ assessment items and raising content relevancy from 72% to 83%.
-- Deployed a Flask backend on AWS EC2 using Docker and Apache; resolved recurring deployment issues and improved model evaluation speed by 18%.
+Worked on research-backed software systems for educational content workflows, combining backend engineering with applied AI retrieval. The role involved building Python services, data pipelines, review tooling, and LLM-assisted retrieval workflows that had to be practical for real users, measurable against educator feedback, and stable enough to support repeated evaluation cycles.
+
+**Core scope:** Python, Flask, MySQL, Redis, GraphRAG, LlamaIndex, SpaCy, AutoGen, AWS EC2, Docker, Apache
 
 ### Software Development Engineer II - IBM
 **Bengaluru, India | Sep. 2022 - Apr. 2024**
 
-- Built and maintained Node.js and Express.js services for production application workflows; tuned PostgreSQL indexes and SQL queries to reduce data retrieval latency from 420 ms to 295 ms.
-- Added Docker, configuration, smoke test, and integration test checks to Jenkins release workflows, cutting release time by 35 minutes per sprint and reducing deployment failures by 45%.
-- Debugged recurring deployment failures with DevOps and QA teams using Jenkins logs and Docker runtime checks on AWS EC2, improving deployment reliability to 99.7%.
-- Built React.js and TypeScript frontend modules with Redux and Tailwind CSS, improving frontend responsiveness by 28% and raising Lighthouse score from 78 to 91.
+Owned production-facing application work across backend services, database performance, frontend modules, and release reliability. This role sat close to the full software delivery loop: implementing Node.js services, improving PostgreSQL-backed workflows, supporting React/TypeScript UI work, and partnering with DevOps and QA teams to make deployments more predictable on AWS-based infrastructure.
+
+**Core scope:** Node.js, Express.js, PostgreSQL, SQL tuning, React.js, TypeScript, Redux, Tailwind CSS, Docker, Jenkins, AWS EC2
 
 ### Software Development Engineer - Cognizant
 **Hyderabad, India | Aug. 2021 - Sep. 2022**
 
-- Built React.js dashboards for internal analytics workflows using GraphQL and Django APIs to support near-real-time reporting and daily application use.
-- Fixed slow refresh issues in React dashboards by improving API data fetch handling and component rendering, increasing data rendering speed by 21.6%.
-- Containerized backend services on AWS EC2 using Docker and Jenkins, cutting environment setup time from 82 minutes to 39 minutes and reducing manual deployment errors by 17%.
+Built internal analytics and reporting applications where frontend responsiveness, API integration, and reliable delivery mattered for daily business use. The work connected React dashboards with GraphQL and Django APIs, improved data refresh behavior, and supported containerized backend environments so teams could move faster with fewer setup and deployment issues.
+
+**Core scope:** React.js, GraphQL, Django APIs, Docker, Jenkins, AWS EC2, dashboard performance, API integration
 
 ### Software Developer - Widhya
 **New Delhi, India | Jan. 2021 - Jul. 2021**
 
-- Built an RNN-based text classification model using TensorFlow and SpaCy; refined tokenization and hyperparameter settings, raising validation accuracy from 88.4% to 93.2%.
-- Automated Python experiment scripts for data preprocessing and model evaluation using Pandas and Scikit-learn, cutting repetitive manual testing time by 27%.
+Started in applied machine learning and data workflow automation, focusing on text classification, experiment scripting, preprocessing, and model evaluation. This experience shaped the way I approach software work now: build repeatable pipelines, measure quality carefully, and make experimentation easier to reproduce.
+
+**Core scope:** Python, TensorFlow, SpaCy, Pandas, Scikit-learn, RNNs, data preprocessing, model evaluation
 
 ## Featured Work
 
